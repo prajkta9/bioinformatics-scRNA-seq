@@ -1,0 +1,17 @@
+Sample_4	Type_1
+Sample_5	Type_1
+Sample_6	Type_1
+Sample_15	Type_1
+Sample_16	Type_1
+Sample_17	Type_1
+Sample_18	Type_1
+Sample_8	Unknown
+Sample_1	Type_2
+Sample_2	Type_2
+Sample_3	Type_2
+Sample_7	Type_2
+Sample_9	Type_2
+Sample_11	Type_2
+Sample_12	Type_2
+Sample_13	Type_2
+Sample_14	Type_2

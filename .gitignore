@@ -1,0 +1,7 @@
+# Mac Files
+.DS_Store
+
+# R Files
+.RData
+.Rhistory
+*.tmp
