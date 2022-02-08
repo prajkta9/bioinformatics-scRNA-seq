@@ -48,9 +48,6 @@ library(matrixStats)
   
   # Prepare the data for bar plot
   keepGenesPlot = data.frame(keepGenesPlot[, c(18, 19, 1:17, 20, 21)])
-  if (ncol(keepGenesPlot) > nrow(keepGenesPlot)){
-    keepGenesPlot = t(keepGenesPlot)
-  }
   
   # Get the total number of genes for the plot
   nGenes = ncol(keepGenesPlot)
